@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ethereum Blockexplorer</title>
+    <script src="https://github.com/ethereum/web3.js/blob/0.19.0/dist/web3.min.js"></script>
+    <script>
+        web3 = new Web3(new Web3.providers.HttpProvider("https://rinkeby.infura.io/v3/81d2de356c214ed69050f8cfe0fa3290"));
+        
+        function printAccountBalance() {
+            var GET = {};
+            var query = window.location.search.substring(1).split("&");
+            for (var i= 0, max = query.length; i< max; i++)
+            {
+                if (query[i] === "") //check for query
+                    continue;
+                var param = query[i].split("=");
+                GET[decodeURIComponent(param[0])] = decodeURIComponent(param[1] || "");
+            }
+            var account = GET.account;
+            
+            var balanceWei = web3.eth.getBalance(account).toNumber();
+            var balance = web3.fromWei(balanceWei, 'ether');
+            
+            document.write('[' + account + ']<br><br>')
+            document.write(balance + 'Ether');
+        }
+    </script>
+</head>
+
+<body>
+    <h2>Ethereum Blockexplorer</h2>
+    <form method=GET action="ethexplorer.html">
+        Enter an account<input type=text size=50 name=account><input type=submit>
+    </form>
+        <br>
+        <p>Latest Block
+        <div id="blockNumber">test</div>
+        <script>
+            setInterval(function () {
+
+                        // block number of latest mined block
+                web3.eth.getBlockNumber().then(data => {
+                document.getElementById('blockNumber').innerHTML = data;
+                });
+
+            }, 3000);
+        </script>
+        </p>
+        <p>account balance
+        </p>
+</body>
+</html>
+    
