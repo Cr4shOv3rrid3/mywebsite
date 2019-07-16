@@ -1,0 +1,356 @@
+/*======================== RESET ========================*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section { display: block; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after { content: ''; content: none; }
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+table { border-collapse: collapse; border-spacing: 0; }
+a { text-decoration: none; background: transparent;}
+a:focus { outline: thin dotted; }
+a:hover, a:active { outline: 0; }
+svg:not(:root) { overflow: hidden; }
+img { border: 0; }
+button,
+input,
+select,
+textarea { font-family: inherit; font-size: 100%; margin: 0; max-width: 100%;}
+html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; height: 100%;}
+img { max-width: 100%;}
+.clearfix:before,
+.clearfix:after { content: " "; display: table;}
+.clearfix:after { clear: both;}
+.clearfix { *zoom: 1;}
+* { 
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box; 
+	-o-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+/*======================== RESET END ========================*/
+
+/*======================== TYPOGRAPHY ========================*/
+
+html, body, form, input { font-family: 'Lato', 'sans-serif'; font-weight: 300;}
+
+body { text-align: center; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; height: 100%; max-width: 100%; overflow: scroll;}
+
+h1, p { text-shadow: 1px 1px 0 #000; line-height: 1.7em;}
+
+h1 { font-size: 1.2em; font-weight: 300; letter-spacing: 2px;}
+
+p { font-size: 0.9em; margin-bottom: 2em;}
+
+a,
+body,
+.subscribe input[type=submit] { 
+	color: #fff;
+}
+
+.countdown-amount,
+.social a:hover {
+	color: #5691BB;
+}
+
+.subscribe input[type=submit] {
+	background: #5691BB;
+}
+
+.subscribe input[type=email] {
+	color: #777;
+}
+
+.subscribe input[type=submit]:hover {
+	background: #5B6B7A;
+}
+
+.social a:hover {
+	background: #fff;
+}
+
+/*======================== PAGE ========================*/
+
+section * {
+	-webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+body {
+	background: url('../img/placeholder.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.page { 
+	display: table;
+	width: 100%;
+	height: 100%;
+	padding: 40px 0;
+	background: rgba(0,0,0,0.8);
+}
+
+.content { 
+	display: table-cell;
+	vertical-align: middle;
+	height: 100%;
+	padding: 0 20px;
+}
+
+/*======================== TIMER ========================*/
+
+.timer {
+	margin: 0 0 20px 0;
+}
+
+.countdown-section {
+	display: block;
+	width: 25%;
+	display: inline-block;
+	border-left: 1px solid #fff;
+	border-left: 1px solid rgba(255,255,255,0.2);
+	padding: 20px 0;
+}
+
+.countdown-section:first-child {
+	border: none;
+}
+
+.countdown-amount {
+	font-size: 2em;
+	font-weight: 900;
+	text-shadow: 1px 1px 0 #000;
+}
+
+.countdown-period {
+	display: block;
+	font-size: 0.8em;
+	text-shadow: 1px 1px 0 #000;
+}
+
+.timer p {
+	display: inline-block;
+	padding: 5px 10px;
+	font-style: italic;
+}
+
+/*======================== SUBSCRIBE ========================*/
+
+.subscribe {
+	margin: 0 0 60px 0;
+}
+
+.subscribe form {
+	border: none;
+	width: 300px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.subscribe input {
+	border:none;
+  background-color:none; 
+}
+
+.subscribe input[type=email] {
+	width: 200px;
+	margin: 0;
+	display: block;
+	float: left;
+	height: 40px;
+	border-radius: 5px 0 0 5px;
+	padding: 10px;
+	outline: none;
+	text-transform: lowercase;
+}
+
+.subscribe input[type=submit] {
+	width: 100px;
+	margin: 0;
+	padding: 5px;
+	display: block;
+	height: 40px;
+	border-radius: 0 5px 5px 0;
+	font-size: 0.6em;
+	cursor: pointer;
+	-webkit-appearance: none;
+	outline: none;
+}
+
+#response {
+	text-transform: uppercase;
+	padding: 7px;
+	margin: 10px 0 0 0;
+	border-radius: 5px;
+	text-shadow: 0 1px 0 #fff;
+	display: none;
+	position: absolute;
+	width: 100%;
+}
+
+.response-waiting {
+	font-size: 0.8em;
+}
+ 
+.response-success {
+	font-size: 0.8em;
+	background: #dff0d8;
+	color: #468847;
+	font-weight: 700;
+}
+ 
+.response-error {
+	font-size: 0.8em;
+	background: #f2dede;
+	color: #b94a48;
+	font-weight: 700;
+}
+
+/*======================== SOCIAL ========================*/
+
+.social a {
+	width: 35px;
+	height: 35px;
+	display: inline-block;
+	box-shadow: 0 0 0 2px #fff;
+	border-radius: 50%;
+	line-height: 35px;
+	margin: 0 10px 10px 10px;
+	font-size: 1em;
+}
+
+/* ==========================================================================
+	 ==========================================================================
+MEDIA QUERIES
+==========================================================================
+========================================================================== */
+
+@media only screen and (min-width: 48em) {
+
+/*======================== TYPOGRAPHY ========================*/
+
+h1 { font-size: 1.6em;}
+
+p { font-size: 1em;}
+
+/*======================== LOGO ========================*/
+
+.logo {
+	margin: 0 0 80px 0;
+}
+
+.logo img {
+	margin: 0 auto 60px auto;
+}
+
+/*======================== TIMER ========================*/
+
+.timer {
+	width: 700px;
+	margin: 0 auto 60px auto;
+}
+
+.countdown-amount {
+	font-size: 3em;
+}
+
+.countdown-period {
+	font-size: 1.2em;
+	margin: 0.4em 0 0 0;
+}
+
+/*======================== SUBSCRIBE ========================*/
+
+.subscribe {
+	margin: 0 0 20px 0;
+}
+
+.subscribe form {
+	width: 450px;
+}
+
+.subscribe input[type=email] {
+	width: 300px;
+	height: 60px;
+	font-size: 1.4em;
+}
+
+.subscribe input[type=submit] {
+	width: 150px;
+	height: 60px;
+	font-size: 0.9em;
+	letter-spacing: 1px;
+}
+
+/*======================== SOCIAL ========================*/
+
+.social a {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 1.5em;
+}
+
+}/* 48em (768px) end */
+
+
+@media only screen and (min-width: 71.250em) {
+
+/*======================== TYPOGRAPHY ========================*/
+
+h1 { font-size: 2.2em;}
+
+p { font-size: 1.2em;}
+
+/*======================== TIMER ========================*/
+
+.timer {
+	width: 800px;
+}
+
+.countdown-amount {
+	font-size: 4em;
+}
+
+.countdown-period {
+	font-size: 1.5em;
+}
+
+/*======================== SOCIAL ========================*/
+
+.social a:hover {
+	box-shadow: 0 0 0;
+	-webkit-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+}/* 71.250em (1140px) end */
