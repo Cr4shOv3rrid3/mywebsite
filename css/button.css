@@ -1,0 +1,35 @@
+/*Definieren der Button-Eigenschaften*/
+.button {
+    width: 100px;
+    height: 100px;
+    background-color: #04859D; /*Deine Wunschfarbe des Buttons*/
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 20px 4px #111, inset 0 5px 10px #ddd;
+    -moz-box-shadow: 0 0 20px 4px #111, inset 0 5px 10px #ddd;
+    -webkit-box-shadow: 0 0 20px 4px #111, inset 0 5px 10px #ddd;
+    -o-box-shadow: 0 0 20px 4px #111, inset 0 5px 10px #ddd;
+    transition: all 100ms ease;
+    -moz-transition: all 100ms ease;
+    -webkit-transition: all 100ms ease;
+    -o-transition: all 100ms ease;
+}
+/*Definieren des Hover Zustandes*/
+.button:hover {
+    -moz-transform: translate(0, -3px);
+    -webkit-transform: translate(0, -3px);
+    -o-transform: translate(0, -3px);
+    transform: translate(0, -3px);
+}
+/*Definieren des Active Zustandes (Klick)*/
+.button:active {
+    box-shadow: 0 0 10px 4px #111, inset 0 0px 10px #ddd;
+    -moz-box-shadow: 0 0 10px 4px #111, inset 0 0px 10px #ddd;
+    -webkit-box-shadow: 0 0 20px 4px #111, inset 0 5px 10px #ddd;
+    -o-box-shadow: 0 0 20px 4px #111, inset 0 5px 10px #ddd;
+    -moz-transform: scale(.98);
+    -webkit-transform: scale(.98);
+    -o-transform: scale(.98);
+    transform: scale(.98);
+}
