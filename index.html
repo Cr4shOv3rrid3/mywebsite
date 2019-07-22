@@ -50,6 +50,20 @@ var finished_rendering = function() {
 }
 FB.Event.subscribe('xfbml.render', finished_rendering);
 </script>
+  
+  <!-- https://www.geeksforgeeks.org/jquery-scrolltop-with-examples/ -->
+  <script src= 
+        "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"> 
+        </script> 
+          
+        <!-- jQuery code to show the working of this method -->
+        <script> 
+            $(document).ready(function() { 
+                $("button").click(function() { 
+                    alert($("div").scrollTop() + " px"); 
+                }); 
+            }); 
+        </script> 
 
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/simplex-noise/2.4.0/simplex-noise.min.js'></script>
@@ -120,6 +134,7 @@ FB.Event.subscribe('xfbml.render', finished_rendering);
     <!--<script src="js/jquery-1.11.0.min.js"></script>-->
     <!--<script src="js/plugins.js"></script>-->
     <!--<script src="js/init.js"></script>-->
+  <button>Click Here !</button> 
 </body>
 </html>
 
