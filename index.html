@@ -62,7 +62,7 @@ FB.Event.subscribe('xfbml.render', finished_rendering);
         <script> 
             $(document).ready(function() { 
                 $("button").click(function() { 
-                    scrollTop(); 
+                    animate({ scrollTop: 0 }, "slow");
                 }); 
             }); 
         </script> 
