@@ -12,4 +12,4 @@ $(function() {
           if (currScrollPos > elemOffsetTop) $this.css('opacity', 1 -(currScrollPos - elemOffsetTop)/400);
        )};
     )};
- )};
+ )};  // from:  https://youtu.be/-_ojaBSxhmk
