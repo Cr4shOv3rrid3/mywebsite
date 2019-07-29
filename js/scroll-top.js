@@ -15,6 +15,17 @@ jQuery(document).ready(function($){
             $back_to_top.addClass('scroll-fade-out');
         }
     });
+    
+    if($(window).scrollTop() + $(window).height() < $(document).height() - $("#footer").height()) {
+        $('.scroll-top').css("position","fixed");    //resetting it
+        $('.scroll-top').css("bottom","40px"); //resetting it
+}
+
+
+    if($(window).scrollTop() + $(window).height() > $(document).height() - $("#footer").height()) {
+        $('.cd-top').css("position","relative"); // make it related
+        $('.cd-top').css("bottom","0"); //
+ }
 
     //smooth scroll to top
     $back_to_top.on('click', function(event){
