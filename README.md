@@ -8,7 +8,7 @@ Ruby Gems and Jekyll interlink connection running [CHECK]
 
 social footer fully functional [CHECK]
 
-fontawsome integration updated and now running now version 5.9.0 [CHECK]
+fontawsome integration updated and now running on version 5.9.0 [CHECK]
 
 mailchimp connection working properly [CHECK]
 
