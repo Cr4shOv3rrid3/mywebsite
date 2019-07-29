@@ -13,3 +13,5 @@ fontawsome integration updated and now running on version 5.9.0 [CHECK]
 mailchimp connection working properly [CHECK]
 
 TODO: Button for scrollTop();
+
+https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-when-footer-appears
