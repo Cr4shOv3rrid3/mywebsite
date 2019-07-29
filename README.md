@@ -1,6 +1,6 @@
 # website buildup for www.crashoverride.de [under construction...]
 
-this Build is now in Alpha in Version 0.1.2
+this Build is now in Alpha in Version 0.1.4
 
 timestamp[07/29/2019]
 
@@ -8,7 +8,7 @@ Ruby Gems and Jekyll interlink connection running [CHECK]
 
 social footer fully functional [CHECK]
 
-fontawsome integration updated [CHECK]
+fontawsome integration updated and now running now version 5.9.0 [CHECK]
 
 mailchimp connection working properly [CHECK]
 
