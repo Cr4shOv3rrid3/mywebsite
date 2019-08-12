@@ -1,7 +1,7 @@
-# robots.txt for http://www.mynetec.com/
+# robots.txt for http://www.crashoverride.com/
 
 User-agent: *
-Disallow: /mynetec/ # This is an infinite virtual URL space
+Disallow: /crashoverride/ # This is an infinite virtual URL space
 
 # Cybermapper knows where to go.
 User-agent: sophia
