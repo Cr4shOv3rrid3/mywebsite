@@ -1,8 +1,8 @@
 # website buildup for www.crashoverride.de [under construction...]
 
-this Build is now in Alpha in Version 0.1.4
+this Build is now in Alpha in Version 0.1.6
 
-timestamp[07/29/2019]
+timestamp[09/14/2019]
 
 Ruby Gems and Jekyll interlink connection running [CHECK]
 
@@ -12,6 +12,11 @@ fontawsome integration updated and now running on version 5.9.0 [CHECK]
 
 mailchimp connection working properly [CHECK]
 
-TODO: Button for scrollTop();
-
+Button for scrollTOP(); [CHECK]
 https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-when-footer-appears
+
+integrating Navigation with old <div class="yourclass"> compat [CHECK]
+
+TODO: webserver_interlink;
+
+
