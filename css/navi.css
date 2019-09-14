@@ -1,0 +1,57 @@
+nav.home-header-container,
+ul.nav-bar-links,
+li.nav-bar-link{
+  float: left;
+  display: inline;
+  font-size: 25px;
+  font-weight: bold;
+}
+span.divider{
+  float: left;
+  display: inline;
+  color: silver;
+  font-size: 25px;
+  font-weight: bold;
+  list-style-type: none;
+}
+a.back2main{
+  color: green;
+}
+a.problem{
+  float: left;
+  display: inline;
+  color: tomato;
+}
+a.myneTEC_tokens{
+  color: #02A0D3;
+}
+a.the_tech{
+  color: lightslategrey;
+}
+a.mining{
+  color: gold;
+}
+a.company_history{
+  color: greenyellow;
+}
+a.faq{
+  color: #9b1c31;
+}
+a.back2main:hover,
+a.problem:hover,
+a.myneTEC_tokens:hover,
+a.the_tech:hover,
+a.mining:hover,
+a.company_history:hover,
+a.faq:hover{
+  color: orange;
+}
+#nav-bar-links-learn-example {
+  background-color: #F7FFC3;        /* Hintergrundfarbe für die Navigation */
+  padding: 4px 0;                   /* Innenabstand: oben unten 4px, li re 0 */
+  border-top: 3px solid #668BCC;    /* Rahmenlinie oben */
+  border-bottom: 3px solid #668BCC; /* Rahmenlinie unten */
+  margin: 0;                        /* Keinen Außenabstand */
+}
+  
+
