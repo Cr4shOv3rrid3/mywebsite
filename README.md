@@ -15,7 +15,7 @@ mailchimp connection working properly [CHECK]
 Button for scrollTOP(); [CHECK]
 https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-when-footer-appears
 
-integrating Navigation with old (<div class="yourclass">) compat [CHECK]
+integrating Navigation with old div class="yourclass" compat [CHECK]
 
 TODO: webserver_interlink;
 
