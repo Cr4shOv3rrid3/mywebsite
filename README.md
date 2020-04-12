@@ -2,13 +2,13 @@
 
 this Build is now in Alpha in Version 0.1.6
 
-timestamp[04/11/2020]
+timestamp[04/12/2020]
 
 - Ruby Gems and Jekyll interlink connection running [CHECK]
 
 - social footer fully functional [CHECK]
 
-- fontawsome integration updated and now running on version 5.9.0 [CHECK]
+- fontawesome integration updated and now running on version 5.9.0 [CHECK]
 
 - mailchimp connection working properly [CHECK]
 
@@ -17,6 +17,6 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
 
 - integrating Navigation with old div class="yourclass" compat [CHECK]
 
-- TODO: webserver_interlink; [ONGOING]
+- TODO: myneTEC_webserver_interlink; [ONGOING]
 
 
