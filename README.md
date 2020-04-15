@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
 
 - integrating Navigation with old div class="yourclass" compat [CHECK]
 
-- myneTEC_webserver_basic_interlink; [DONE]
+- myneTEC_webserver_basic_interlink; [CHECK]
 - TODO: myneTEC_webserver_advanced_interlink; [ONGOING]
 
 
