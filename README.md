@@ -2,7 +2,7 @@
 
 this Build is now in Alpha in Version 0.1.6
 
-timestamp[04/15/2020]
+timestamp[04/23/2020]
 
 - Ruby Gems and Jekyll interlink connection running [CHECK]
 
@@ -18,6 +18,6 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
 - integrating Navigation with old div class="yourclass" compat [CHECK]
 
 - myneTEC_webserver_backoffice_basic_interlink; [CHECK]
-- TODO: myneTEC_webserver_backoffice_advanced_interlink; [ONGOING]
+- TODO: myneTEC_webserver_backoffice_advanced_interlink; [ONGOING] phase 1/3: Database set [DONE]
 
 
