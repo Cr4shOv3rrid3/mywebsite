@@ -2,9 +2,9 @@
 
 this Build is now in Alpha in Version 0.1.7
 
-timestamp[04/24/2020]
+timestamp[08/08/2020]
 
-- Ruby Gems and Jekyll interlink connection running [CHECK]
+- Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
 - social footer fully functional [CHECK]
 
