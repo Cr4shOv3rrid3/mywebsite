@@ -1,8 +1,8 @@
 # website buildup www.crashoverride.de [under construction...]
 
-this Build is now in Alpha in Version 0.1.7
+this Build is now in Alpha in Version 0.1.8
 
-timestamp[08/08/2020]
+timestamp[28/11/2020]
 
 - Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
