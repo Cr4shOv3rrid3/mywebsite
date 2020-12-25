@@ -25,5 +25,7 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
    - phase 2/4: login_window set [DONE]
    - phase 3/4: login2database_connect via python script [ONGOING]
    - phase 4/4: login_user_specific_view [NOT_STARTED_YET]
+   
+- google site-verfication [DONE]
 
 
