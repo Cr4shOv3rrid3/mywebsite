@@ -2,7 +2,7 @@
 
 this Build is now in Alpha in Version 0.1.8
 
-timestamp[28/11/2020]
+timestamp[25/12/2020]
 
 - Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
