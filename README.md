@@ -28,4 +28,6 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
    
 - google site-verfication [DONE]
 
+- about page (external) [DONE]
+
 
