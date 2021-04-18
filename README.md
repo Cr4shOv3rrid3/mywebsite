@@ -1,6 +1,6 @@
 # website buildup www.crashoverride.de [under construction...]
 
-this Build is now in Alpha in Version 0.2.0
+this Build is now in Beta in Version 0.2.0
 
 timestamp[24/03/2021]
 
