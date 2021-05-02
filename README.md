@@ -31,5 +31,6 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
 - about page (external) [DONE]
 - faq page (external) [DONE]
 - cookieconsent install [ONGOING]
+- https://www.quazar.de/ //inspiration 4 new design elements
 
 
