@@ -2,7 +2,7 @@
 
 this Build is now in Beta in Version 0.2.0
 
-last worked on timestamp[26/04/2021]
+last worked on timestamp[07/05/2021]
 
 - Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
@@ -34,3 +34,4 @@ https://stackoverflow.com/questions/31306222/repositioning-scroll-to-top-button-
 - https://www.quazar.de/ //inspiration 4 new design elements
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
 
+## last_worked_on: about page optimizations
