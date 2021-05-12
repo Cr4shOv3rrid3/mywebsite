@@ -21,8 +21,8 @@ last worked on timestamp[12/05/2021]
 
 - [x] myneTEC_webserver_backoffice_basic_interlink; [CHECK]
 - []TODO: myneTEC_webserver_backoffice_advanced_interlink; [ONGOING] 
-   - phase 1/4: Database set [DONE]
-   - phase 2/4: login_window set [DONE]
+   - [x] phase 1/4: Database set [DONE]
+   - [x] phase 2/4: login_window set [DONE]
    - phase 3/4: login2database_connect via python script [ONGOING]
    - phase 4/4: login_user_specific_view [NOT_STARTED_YET]
    
