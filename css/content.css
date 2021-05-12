@@ -1,0 +1,13 @@
+article{
+  width: 36em;
+  margin: 0 auto;
+  max-width: 100%;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+@media only scren and (max-width: 320px) {
+  article{
+    font-size: 16px;
+  }
+}
