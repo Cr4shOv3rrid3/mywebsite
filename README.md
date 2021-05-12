@@ -20,7 +20,7 @@ last worked on timestamp[12/05/2021]
 - [x] jquery 3.5.1 [TODO]
 
 - [x] myneTEC_webserver_backoffice_basic_interlink; [CHECK]
-- [ ]TODO: myneTEC_webserver_backoffice_advanced_interlink; [ONGOING] 
+- []TODO: myneTEC_webserver_backoffice_advanced_interlink; [ONGOING] 
    - phase 1/4: Database set [DONE]
    - phase 2/4: login_window set [DONE]
    - phase 3/4: login2database_connect via python script [ONGOING]
@@ -30,7 +30,7 @@ last worked on timestamp[12/05/2021]
 
 - [x] about page (external) [DONE]
 - [x] faq page (external) [DONE]
-- [ ]cookieconsent install [ONGOING]
+- []cookieconsent install [ONGOING]
 - https://www.quazar.de/ //inspiration 4 new design elements
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
 
