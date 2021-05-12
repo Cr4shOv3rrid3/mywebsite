@@ -31,8 +31,8 @@ this Build is now in Beta in Version 0.2.0
 - [ ] specific pages [ONGOING]
    - [x] about page (external) [DONE]
    - [x] faq page (external) [DONE]
+   - [x] coding page (external) [DONE]
    - [ ] login page (external) [DONE]
-   - [ ] coding page (external) [DONE]
    
 - [ ] cookieconsent install [ONGOING]
    - [x] general warning with hyperlinks [DONE]
