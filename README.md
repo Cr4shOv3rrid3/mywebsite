@@ -28,7 +28,7 @@ this Build is now in Beta in Version 0.2.0
    
 - [x] google site-verfication [DONE]
 
-- [ ] specific pages [ONGOING]
+- [x] specific pages root build [ONGOING]
    - [x] about page (external) [DONE]
    - [x] faq page (external) [DONE]
    - [x] coding page (external) [DONE]
