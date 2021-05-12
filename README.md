@@ -17,10 +17,10 @@ this Build is now in Beta in Version 0.2.0
 
 - [x] integrating Navigation with old div class="yourclass" compat [CHECK]
 
-- [ ] jquery 3.5.1 [TODO]
+- [ ] jquery 3.5.1 [ONGOING]
 
 - [x] myneTEC_webserver_backoffice_basic_interlink; [CHECK]
-- [ ] TODO: myneTEC_webserver_backoffice_advanced_interlink; [ONGOING] 
+- [ ] myneTEC_webserver_backoffice_advanced_interlink; [ONGOING] 
    - [x] phase 1/4: Database set [DONE]
    - [x] phase 2/4: login_window set [DONE]
    - [ ] phase 3/4: login2database_connect via python script [ONGOING]
