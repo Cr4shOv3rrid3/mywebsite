@@ -26,9 +26,9 @@ this Build is now in Beta in Version 0.2.0
    - [ ] phase 3/4: login2database_connect via python script [ONGOING]
    - [ ] phase 4/4: login_user_specific_view [NOT_STARTED_YET]
    
-- [x] google site-verfication [DONE]
+- [x] google site-verfication [CHECK]
 
-- [x] specific pages root build [ONGOING]
+- [x] specific pages root build [CHECK]
    - [x] about page (external) [DONE]
    - [x] faq page (external) [DONE]
    - [x] coding page (external) [DONE]
