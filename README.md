@@ -28,8 +28,12 @@ this Build is now in Beta in Version 0.2.0
    
 - [x] google site-verfication [DONE]
 
-- [x] about page (external) [DONE]
-- [x] faq page (external) [DONE]
+- [ ] specific pages [ONGOING]
+   - [x] about page (external) [DONE]
+   - [x] faq page (external) [DONE]
+   - [ ] login page (external) [DONE]
+   - [ ] coding page (external) [DONE]
+   
 - [ ] cookieconsent install [ONGOING]
    - [x] general warning with hyperlinks [DONE]
    - [ ] popup functionality [ONGOING] 
