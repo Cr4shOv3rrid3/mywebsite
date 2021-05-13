@@ -37,6 +37,7 @@ this Build is now in Beta in Version 0.2.0
 - [ ] cookieconsent install [ONGOING]
    - [x] general warning with hyperlinks [DONE]
    - [ ] popup functionality [ONGOING] 
+- [x] adding Donation button [CHECK]
 - https://www.quazar.de/ //inspiration 4 new design elements
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
 
