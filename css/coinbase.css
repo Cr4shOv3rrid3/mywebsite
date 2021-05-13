@@ -1,0 +1,10 @@
+div.buybutton {
+  position: absolute;
+  left: 330px;
+  background: #4267b2;
+  border-radius: 5px;
+  color: white;
+  height: 30px;
+  text-align: center;
+  width: 150px;
+}
