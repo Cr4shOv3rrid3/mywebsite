@@ -2,7 +2,7 @@
 
 this Build is now in Beta in Version 0.2.0
 
-## last worked on timestamp[13/05/2021]
+## last worked on timestamp[16/05/2021]
 
 - [x] Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
@@ -41,4 +41,4 @@ this Build is now in Beta in Version 0.2.0
 - https://www.quazar.de/ //inspiration 4 new design elements
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
 
-## last_worked_on: github index.html cookies fiddeling
+## last_worked_on: faq.html external
