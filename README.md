@@ -2,7 +2,7 @@
 
 this Build is now in Beta in Version 0.2.0 and herby synchronised into mynetec_pkg
 
-## last worked on timestamp[16/05/2021]
+## last worked on timestamp[17/05/2021]
 
 - [x] Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
