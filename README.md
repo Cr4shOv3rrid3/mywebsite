@@ -40,5 +40,6 @@ this Build is now in Beta in Version 0.2.0
 - [x] adding Donation button [CHECK]
 - https://www.quazar.de/ //inspiration 4 new design elements
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
+- [x] erc20 token contract [CHECK]
 
 ## last_worked_on: faq.html external
