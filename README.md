@@ -42,4 +42,4 @@ this Build is now in Beta in Version 0.2.0 and herby synchronised into mynetec_p
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
 - [x] erc20 token contract [CHECK]
 
-## last_worked_on: faq.html external
+## last_worked_on: index.html [internal]
