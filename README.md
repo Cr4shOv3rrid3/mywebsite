@@ -1,6 +1,6 @@
 # website buildup www.crashoverride.de [under construction...]
 
-this Build is now in Beta in Version 0.2.1 and herby synchronised into mynetec_pkg
+this Build is now in Beta in Version 0.2.2 and herby synchronised into mynetec_pkg
 
 ## last worked on timestamp[15/08/2022]
 
