@@ -1,5 +1,5 @@
 div.buybutton {
-  position: absolute;
+  position: relative;
   left: 500px;
   background: #4267b2;
   border-radius: 5px;
