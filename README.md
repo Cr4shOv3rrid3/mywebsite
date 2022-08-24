@@ -1,8 +1,8 @@
 # website buildup www.crashoverride.de [under construction...]
 
-this Build is now in Beta in Version 0.2.2 and herby synchronised into mynetec_pkg: https://mynetec.com/manager.html
+this Build is now in Beta in Version 0.2.3 and herby synchronised into mynetec_pkg: https://mynetec.com/manager.html
 
-## last worked on timestamp[15/08/2022]
+## last worked on timestamp[24/08/2022]
 
 - [x] Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
