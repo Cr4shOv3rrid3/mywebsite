@@ -1,8 +1,8 @@
 # website buildup www.crashoverride.de [under construction...]
 
-this Build is now in Beta in Version 0.2.3 and herby synchronised into mynetec_pkg: https://mynetec.com/manager.html
+this Build is now in Beta in Version 0.2.4 and herby synchronised into mynetec_pkg: https://mynetec.com/manager.html
 
-## last worked on timestamp[24/08/2022]
+## last worked on timestamp[01/06/2024]
 
 - [x] Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
@@ -41,5 +41,10 @@ this Build is now in Beta in Version 0.2.3 and herby synchronised into mynetec_p
 - https://www.quazar.de/ //inspiration 4 new design elements
 - https://pipedream.com/ //sql storage warehouse (mynetecbot already connected)
 - [x] erc20 token contract [CHECK]
+- [x] walletconnection (Infura_&_coinbase_advanced_trade_API] [ONGOING]
+   - [x] phase 1/4 BASIC func. START [DONE]
+   - [ ] phase 2/4 more specific [NOT_STARTED_YET]
+   - [ ] phase 3/4 more versatility [NOT_STARTED_YET]
+   - [ ] phase 4/4 BASIC END [NOT_STARTED_YET]
 
 ## last_worked_on: index.html [internal]
