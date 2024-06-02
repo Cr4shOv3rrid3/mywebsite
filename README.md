@@ -2,7 +2,7 @@
 
 this Build is now in Beta in Version 0.2.4 and herby synchronised into mynetec_pkg: https://mynetec.com/manager.html
 
-## last worked on timestamp[01/06/2024]
+## last worked on timestamp[02/06/2024]
 
 - [x] Ruby Gems and Jekyll interlink connection running [CHECK] (last update 08.08.2020)
 
@@ -47,4 +47,4 @@ this Build is now in Beta in Version 0.2.4 and herby synchronised into mynetec_p
    - [ ] phase 3/4 more versatility [NOT_STARTED_YET]
    - [ ] phase 4/4 BASIC END [NOT_STARTED_YET]
 
-## last_worked_on: index.html [internal]
+## last_worked_on: eth2explorer.html [here]
